@@ -1,6 +1,7 @@
 # jbnu-ml-26
 
-Machine learning practice notebooks for weeks 2–5, covering linear regression, binary and multiclass classification, Bayesian machine learning, and support vector machines. The PyTorch regression and classification notebooks implement gradient descent manually; the Bayesian notebook compares posterior sampling methods and visualizes predictive uncertainty. The SVM notebook uses NumPy, SciPy, and Matplotlib to solve and visualize hard-margin and soft-margin linear classifiers.
+This repository provides notebooks implementing the machine learning algorithms covered in the 2026 Machine Learning and Bayesian Machine Learning courses at JBNU.
+
 
 ## Notebooks
 
